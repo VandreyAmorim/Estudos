@@ -1,0 +1,23 @@
+.itens-destaques{
+    margin: 40px;
+    display: inline-block;
+}
+
+.itens-mais-acessados{
+    margin: 40px;
+    display: inline-block;
+}
+
+.title-header{
+    margin-left: 100px;
+    margin-right: 100px;
+  
+}
+h3{
+    display: inline-block;
+    width: auto;
+    height: auto;
+}
+.input{
+    padding: 10 10 10 302px;
+}
